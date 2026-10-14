@@ -1,0 +1,4 @@
+- [x] Finish the initial public notice-board display preview.
+- [ ] After the school provides the first administrator email, secure staff sign-in and management pages.
+- [ ] Add managed, persistent announcements, schedules, exams, timetable, and display settings.
+- [ ] Verify the display and management flows; document the extra steps needed for a local ThinkCentre installation.
